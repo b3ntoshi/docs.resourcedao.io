@@ -11,9 +11,5 @@
 |:--	|
 | [RSC Uploader](/packages/rsc-uploader/) |
 
-| Resources |
-|:--	|
-| [Documentation](course-content/01-html-git-css/activities/01-ConsoleCommands) |
-| [Changelog](/changelog) |
 
 <!-- omit in toc -->
