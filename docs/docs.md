@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# ResourceDAO Docs
+# ResourceDAO
 
 ?> To install our private packages you need a RSC key to decrypt our packs sent from RSC Storage, ask a DAO member how to obtain
 
