@@ -3,3 +3,4 @@
 | Packages |
 |:--	|
 | [RSC Uploader](/packages/rsc-uploader/) |
+| [RSC Uploader](/packages/rsc-user-verify/) |

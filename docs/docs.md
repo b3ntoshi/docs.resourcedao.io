@@ -10,6 +10,7 @@
 | Packages / SDK's |
 |:--	|
 | [RSC Uploader](/packages/rsc-uploader/) |
+| [RSC User Verify](/packages/rsc-user-verify/) |
 | RSC Arweave Cost |
 | RSC SmartWeave |
 | RSC Trusted Data |
