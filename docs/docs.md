@@ -5,7 +5,7 @@
 
 | Projects |
 |:--	|
-| [RSC Staking](/projects/rsc-staking) |
+| [RSC Staking](https://stake.resourcedao.io) |
 
 | Packages / SDK's |
 |:--	|
